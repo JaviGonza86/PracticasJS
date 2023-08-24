@@ -1,0 +1,33 @@
+
+.container-fluid{
+    border: 1px solid rgb(222, 62, 105);
+    color: bolder black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    text-decoration: none;
+    font-style: oblique;
+    background: url(gamerday.png);
+}
+
+.modal-title{
+    color: bolder black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    font-weight: bolder;
+    text-decoration: none ;
+}
+
+.formulari{
+    font-size: larger;
+    color: aliceblue;
+}
+
+.btn-primary{
+    color: aliceblue;
+    font-style: oblique;
+    font-size: larger;
+    border: 3px solid aliceblue;
+    background-color:rgb(222, 62, 105) ;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+}
