@@ -1,4 +1,5 @@
 Body{
+    color: aliceblue;
     background: url(fondonegro2.jpg) ;
 }
 
@@ -30,7 +31,6 @@ Body{
     font-style: oblique;
     font-size: larger;
     border: 3px solid aliceblue;
-    background-color:rgb(222, 62, 105) ;
     font-weight: bolder;
     font-family: Arial, Helvetica, sans-serif;
 }
